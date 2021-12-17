@@ -12,11 +12,11 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/0ac1f1b5c5b2376a14f3f.jpg">
+  <img src="https://telegra.ph/file/a50c55b8e065ce0df5af0.jpg">
 </p>
 
 # Pikachu
-Me On Telegram [✨Pikachu✨](https://t.me/Pikachu_X_bot)
+Me On Telegram [✨Pikachu✨](https://t.me/Pikachu_music_group)
 
 ## How To Host
 The easiest way to deploy this Bot
@@ -24,10 +24,9 @@ The easiest way to deploy this Bot
  
 CREDITS
 ```
-❤️ Kristina- Dipesh
-❤ Pikachu - Manjeet
+❤ Pikachu - SWAMI
 ❤️ 
-This Bot Is Created By @Murat_30_God ! if your kanging this without fork at least give a credit to get a smile of my hard work.
+This Bot Is Created By @guddu_op ! if your kanging this without fork at least give a credit to get a smile of my hard work.
 
 
 
